@@ -1,0 +1,4 @@
+faker
+pandas
+pyarrow
+google-cloud-storage
